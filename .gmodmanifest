@@ -1,0 +1,8 @@
+author: "novacbn"
+name: "reactive-moon"
+
+repository: "github://novacbn/reactive-moon"
+version: "0.0.1"
+
+projectBuilds: 
+	"novacbn/reactive-moon/exports": "reactive-moon"
